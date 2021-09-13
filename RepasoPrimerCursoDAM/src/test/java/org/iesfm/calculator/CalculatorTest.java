@@ -1,6 +1,6 @@
-package org.iesfm.suma;
+package org.iesfm.calculator;
 
-import org.iesfm.calulator.Calculator;
+
 import org.junit.Assert;
 import org.junit.Test;
 
@@ -20,4 +20,6 @@ public class CalculatorTest {
 
         Assert.assertEquals(result, 9);
     }
+
+
 }
